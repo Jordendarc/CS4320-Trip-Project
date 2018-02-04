@@ -1,17 +1,17 @@
 # CS4320-Trip-Project
 
 ## Group Members
-⋅⋅* John Lund-Molfese (role)
-⋅⋅* Jorden Whitbey (role)
-⋅⋅* Sam Ellison (role)
+  * John Lund-Molfese (role)
+  * Jorden Whitbey (role)
+  * Sam Ellison (role)
 
 ## Who's Going
-⋅⋅* Dale Musser
-⋅⋅* Dong Xu
-⋅⋅* Fang Wang
-⋅⋅* Michael Jurczyk
-⋅⋅* Joseph Guilliams
-⋅⋅* Youssef Saab
+  * Dale Musser
+  * Dong Xu
+  * Fang Wang
+  * Michael Jurczyk
+  * Joseph Guilliams
+  * Youssef Saab
 ## Trip Destination
 
 ## Budget for Trip

@@ -1,8 +1,8 @@
 # CS4320-Trip-Project
 
 ## Group Members
-  * John Lund-Molfese (role)
-  * Jorden Whitbey (role)
+  * John Lund-Molfese (Scrum Master)
+  * Jorden Whitbey (Product Owner)
   * Sam Ellison (role)
 
 ## Who's Going
@@ -17,6 +17,6 @@ Osaka, Japan
 ## Budget for Trip
 $20,000
 ## Length of Trip
-
+One Week
 ## Trip Purpose
 Computer Science conference

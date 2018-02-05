@@ -1,4 +1,4 @@
-# CS4320-Trip-Project
+# Trip Project Starting Requirements
 
 ## Group Members
   * John Lund-Molfese (Scrum Master)

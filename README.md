@@ -1,6 +1,6 @@
 # Trip Project Starting Requirements
 
-## Group Members
+## Team Members
   * John Lund-Molfese (Scrum Master)
   * Jorden Whitbey (Product Owner)
   * Sam Ellison (Developer)

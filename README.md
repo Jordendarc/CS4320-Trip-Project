@@ -3,7 +3,7 @@
 ## Group Members
   * John Lund-Molfese (Scrum Master)
   * Jorden Whitbey (Product Owner)
-  * Sam Ellison (role)
+  * Sam Ellison (Developer)
 
 ## Who's Going
   * Dale Musser

@@ -1,9 +1,9 @@
-#Day 1: Entertainment
+# Day 1: Entertainment
 
-##Osaka Aquarium Kaiyukan Trip
+## Osaka Aquarium Kaiyukan Trip
 
-#Where?
+# Where?
 March 11th
 
-#How much?
+# How much?
 $95.11 per person * 4 = $380.44

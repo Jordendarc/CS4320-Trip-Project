@@ -21,3 +21,10 @@ The primary purpose of the trip is to attend a computer science conference, wher
 ## Trip Logistics
 # Taxi
 700 yen for the first two kilometers and increase by around 90 yen for every additional 400 meters traveled
+
+## Links
+* [Day_1_Entertainment.md](/Day_1_Entertainment.md)
+* [Day_2_Entertainment.md](/Day_2_Entertainment.md)
+* [Day_3_Entertainment.md](/Day_3_Entertainment.md)
+* [Day_4_Entertainment.md](/Day_4_Entertainment.md)
+* [Day_5_Entertainment.md](/Day_5_Entertainment.md)

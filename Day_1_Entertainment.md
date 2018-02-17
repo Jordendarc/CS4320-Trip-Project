@@ -8,7 +8,7 @@ March 11th
 # How much?
 $95.11 per person * 4 = $380.44
 
-# how to get there?
+# how to get there and back?
 * 6.59$(700 yen) for the first two kilometers
 * increase by around .85$ (90 yen) for every additional 400 meters traveled
 * 16.4 km round trip

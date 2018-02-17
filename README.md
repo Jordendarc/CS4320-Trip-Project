@@ -18,3 +18,6 @@ $20,000
 One Week, in total, from March 11 to March 17
 ## Trip Purpose
 The primary purpose of the trip is to attend a computer science conference, where the trip participants are presenting their research in front of the attendees. After the conference, the participants want to go sightseeing in Osaka.
+## Trip Logistics
+# Taxi
+700 yen for the first two kilometers and increase by around 90 yen for every additional 400 meters traveled
